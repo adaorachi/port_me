@@ -1,0 +1,17 @@
+.navbar-brand.logo_h {
+  font-weight: bold;
+  color: #333;
+}
+
+.whoami {
+  transform: translateY(10rem);
+}
+
+
+.whoamipic {
+  transform: translateY(6rem);
+}
+
+.menu_nav .nav-link {
+  font-size: 1rem!important;
+}
