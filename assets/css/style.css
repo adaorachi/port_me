@@ -5,12 +5,13 @@ body {
 }
 
 #page-wraper {
-  background: url(../images/page-bg.jpg) no-repeat center center fixed;
+  /* background: url(../images/page-bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  width: 100%;
+  width: 100%; */
+  background-color: #4a4a4a;
 }
 
 /* Basic */
@@ -305,7 +306,10 @@ html {
 .section-heading h2 {
   font-size: 32px;
   font-weight: 700;
-  color: #ff6170;
+  color: #fff;
+  width: max-content;
+  margin: 0 auto;
+  padding: 0 1rem;
 }
 
 .section-heading .line-dec {
